@@ -29,8 +29,11 @@ Clona la repo e apri il file `index.html` con il tuo browser:
 ## 📁 Struttura del progetto
 
 📦 snake-game/
+
 ├── index.html         # Struttura della pagina
+
 ├── style.css          # Stili personalizzati
+
 └── script.js          # Logica di gioco
 
 ## 🛠️ Tecnologie usate
